@@ -1,0 +1,22 @@
+.body_background {
+  background-image: url("900w-0kseh4zZukQ.webp");
+  background-position: center;
+  background-size: cover;
+}
+h1
+{
+	color: rgba(4, 255, 196, 0.541); 
+	
+	font-size: 40px;
+}
+
+#myCanvas
+{
+	border-width:10px;
+	background-color: rgb(241, 208, 248); 
+	border-style:ridge;
+}
+span
+{
+	font-size: 20px;
+}
